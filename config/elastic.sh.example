@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export ES_STAGE_URI=
+
+export ES_PROD_URL=
